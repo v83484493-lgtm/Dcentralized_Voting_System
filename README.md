@@ -65,8 +65,7 @@ getVotes(uint candidateId)
 
 🧩 How to Run the Project
 1. Clone the repository
-git clone https://github.com/yourusername/Decentralized-Voting-System.git
-cd Decentralized-Voting-System
+git clone https://github.com/v83484493-lgtm/Dcentralized_Voting_System.git
 
 2. Install dependencies
 npm install
