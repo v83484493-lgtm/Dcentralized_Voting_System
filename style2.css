@@ -1,0 +1,43 @@
+ body{
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background: #F527D3;
+        }
+        .box{
+            background: black;
+            padding: 20px;
+            width: 90%;
+            max-width: 350px;
+            border-radius: 8px;
+            text-align: center;
+        }
+        input{
+            margin-top: 10px;
+        }
+        button{
+            width: 100%;
+            margin-top: 15px;
+            padding: 10px;
+            background: #2196F3;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        .videoBox{
+            background-color: black;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+        }
+        .vikas{
+            height: 100%;
+            width: 100%;
+            margin: 20px;
+            padding: 20px;
+            justify-content: center;
+            align-items: center;
+        }
